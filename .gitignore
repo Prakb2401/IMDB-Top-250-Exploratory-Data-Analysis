@@ -1,6 +1,13 @@
+<<<<<<< HEAD
+```python
+# Adding config.py file.
+api_keys.py
+```
+=======
 __pycache__
 *.py[cod]
 *.vectorized_metadata
 *.vectorized_content
 .noteablekeep
 .tmp/
+>>>>>>> cd4cf53e01e51472a541814013b0d553e01aab88
