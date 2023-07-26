@@ -59,4 +59,4 @@ We conducted the project by addressing the following guiding questions:
 5. **Clustering Movies:**<br>
     - Unsupervised machine learning, specifically K-means clustering, was used to group movies based on their attributes. The attributes considered for clustering are 'Runtime', 'Metascore', and 'imdbRating'. The analysis reveals five distinct clusters, each with unique characteristics in terms of runtime, Metascore, and IMDb rating. 
     - The clusters suggest that there are groups of movies that share similar characteristics in terms of runtime, Metascore, and IMDb rating. The clusters range from shorter to longer movies, and from good to very high ratings and metascores.
-<div style="text-align:center"> <img src="./Visualizations/Clustering.png" alt="Alt Text"> </div>
+    <div style="text-align:center"> <img src="./Visualizations/Clustering.png" alt="Alt Text"> </div>
